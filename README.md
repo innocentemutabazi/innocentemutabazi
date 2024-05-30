@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Innocente Umuhuza Mutabazi</h1>
-<h3 align="center">A Software Developer and Engineer who likes to transform ideas into reality.</h3>
+<h3 align="center">Currently educating myself to become a fullstack software developer</h3>
 
-- 🔭 I’m an aspiring **Full stack developer**
+- 🔭 I’m an **An Aspiring Full stack developer**
 
-- 👯I am open to opportunities to collaborate on **open source projects.**
+- 👯I am open to collaboration opportunities on **open source projects.**
 
 - ⚡ Fun fact: **I am also a poet with excellent English writing and speaking skills**
 
