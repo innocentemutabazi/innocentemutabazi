@@ -1,7 +1,8 @@
-<h1 align="center">Hi there 👋🏽, I'm Innocente Umuhuza Mutabazi</h1>
-<h3 align="center">Currently educating myself to become a fullstack software developer</h3>
+![image](https://github.com/innocentemutabazi/innocentemutabazi/assets/159420918/8ae6616d-1980-44c2-92cf-5d3a12b2f0ce)
+<h1 align="center"> Hi there 👋🏽 , Nice to see you </h1>
 
-- 🔭 I’m an **An Aspiring Full stack developer**
+ ## 🥰 A bit about me:
+- 🔭 I’m ~~a **Front-End Developer**~~ an **Aspiring Full stack developer**
 
 - 👯I am open to collaboration opportunities on **open source projects.**
 
