@@ -3,6 +3,8 @@
 
  ## 🥰 A bit about me:
 - 🔭 I’m ~~a **Front-End Developer**~~ an **Aspiring Full stack developer**
+  
+- 📚 I'm currently focusing on deepening my skills in JavaScript and exploring its frameworks
 
 - 👯I am open to collaboration opportunities on **open source projects.**
 
