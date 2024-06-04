@@ -25,7 +25,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=innocentemutabazi&theme=dark&hide_border=false&show_icons=true"/> <br/>
 <br>
 <img align ="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocentemutabazi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true"/>
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=innocentemutabazi&theme=dark"/>
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=innocentemutabazi&theme=dark"/> <br>
+
 
 
 ## 🏆 GitHub Trophies
