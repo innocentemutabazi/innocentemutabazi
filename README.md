@@ -20,9 +20,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=innocentemutabazi&include_all_commits=true&count_private=true&show_icons=true&locale=en&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=innocentemutabazi&include_all_commits=true&count_private=true&show_icons=true&locale=en&theme=dark" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=innocentemutabazi&theme=dark&hide_border=false&show_icons=true"/> <br/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=innocentemutabazi&theme=dark&hide_border=false&show_icons=true"/> <br/>
 <br> <br> <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocentemutabazi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true"/>
 
 
