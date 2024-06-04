@@ -20,15 +20,15 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=innocentemutabazi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<br> <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=innocentemutabazi&theme=dark&hide_border=false)<br/>
-<br> <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=innocentemutabazi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=innocentemutabazi&include_all_commits=true&count_private=true&show_icons=true&locale=en&theme=dark" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=innocentemutabazi&theme=dark&hide_border=false&show_icons=true"/> <br/>
+<br>
+<img align ="center" margin-left="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocentemutabazi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=innocentemutabazi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=innocentemutabazi&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api?username=innocentemutabazi&show_icons=true&locale=en&theme=dark)
 [![](https://visitcount.itsvg.in/api?id=innocentemutabazi&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
