@@ -23,9 +23,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=innocentemutabazi&include_all_commits=true&count_private=true&show_icons=true&locale=en&theme=dark" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=innocentemutabazi&theme=dark&hide_border=false&show_icons=true"/> <br/>
-<br>
-<img align ="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocentemutabazi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true"/>
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=innocentemutabazi&theme=dark"/> <br>
+<br> <br> <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocentemutabazi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true"/>
 
 
 
@@ -33,5 +31,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=innocentemutabazi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-![](https://github-profile-summary-cards.vercel.app/api?username=innocentemutabazi&locale=en&theme=dark)
-[![](https://visitcount.itsvg.in/api?id=innocentemutabazi&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=innocentemutabazi&theme=dark"/>[![](https://visitcount.itsvg.in/api?id=innocentemutabazi&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
