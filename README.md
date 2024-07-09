@@ -8,7 +8,7 @@
 
 - 👯I am open to collaboration opportunities on **open source projects.**
 
-- ⚡ Fun fact: **I am also a poet with excellent English writing and speaking skills**
+- ⚡ Fun fact: **I am also a poet**
 
 ## 🌐 Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:innocentemutabazi@gmail.com)
