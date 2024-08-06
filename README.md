@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there 👋🏽 , Nice to see you </h1>
 
  ## 🥰 A bit about me:
-- 🔭 I’m ~~a **Front-End Developer**~~ an **Aspiring Full stack developer**
+- 🔭 I’m an **Aspiring Full stack developer**
   
 - 📚 I'm currently focusing on deepening my skills in JavaScript and exploring its frameworks, libraries, and all other related things.
 
