@@ -18,7 +18,9 @@
 
 # 📊 GitHub Stats:
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=innocentemutabazi&theme=dark&hide_border=false&show_icons=true&count_private=true"/> <br/>
-<br> <br> <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocentemutabazi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true"/>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=innocentemutabazi&theme=blue-green&count-private=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=innocentemutabazi&show_icons=true&count-private=true)
+
 
 
 
