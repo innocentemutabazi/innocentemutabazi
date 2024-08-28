@@ -29,3 +29,4 @@
 ---
 
 <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=innocentemutabazi&theme=dark"/>[![](https://visitcount.itsvg.in/api?id=innocentemutabazi&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![committers.top badge](https://user-badge.committers.top/rwanda/innocentemutabazi.svg)](https://user-badge.committers.top/rwanda/USERNAME)
