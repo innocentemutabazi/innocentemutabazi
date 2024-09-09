@@ -19,8 +19,8 @@
 # 📊 GitHub Stats:
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=innocentemutabazi&theme=dark&hide_border=false&show_icons=true&count_private=true"/><br><br> <br/>
 
-
-
+[![Top Langs](https://innocentemutabazi-readme.vercel.app/api/top-langs/?username=innocentemutabazi&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Innocente's GitHub stats](https://innocentemutabazi-readme.vercel.app/api?username=innocentemutabazi&show_icons=true&theme=dark)
 
 
 ## 🏆 GitHub Trophies
