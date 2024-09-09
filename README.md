@@ -8,8 +8,6 @@
 
 - 👯I am open to collaboration opportunities on **open source projects.**
 
-- ⚡ Fun fact: **I am also a poet**
-
 ## 🌐 Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:innocentemutabazi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/innocente-m-2b3a912aa/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@innocentemutabazi)
