@@ -18,7 +18,7 @@
 
 # 📊 GitHub Stats:
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=innocentemutabazi&theme=dark&hide_border=false&show_icons=true&count_private=true"/><br><br> <br/>
-[![Top Langs](https://innocentemutabazi-readme.vercel.app/api/top-langs/?username=innocentemutabazi&langs_count=8&theme=dark&show_icons=true&layout=compact)](https://github.com/innocentemutabazi/github-readme-stats)
+
 
 
 
