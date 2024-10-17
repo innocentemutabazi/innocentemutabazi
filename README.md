@@ -15,11 +15,10 @@
 
 
 # 📊 GitHub Stats:
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=innocentemutabazi&theme=dark&hide_border=false&show_icons=true&count_private=true"/><br><br> <br/>
+![innocentemutabazi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=innocentemutabazi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=20)
+![innocentemutabazi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=innocentemutabazi&theme=vue-dark&hide_border=true)
 
-[![Top Langs](https://innocentemutabazi-readme.vercel.app/api/top-langs/?username=innocentemutabazi&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Innocente's GitHub stats](https://innocentemutabazi-readme.vercel.app/api?username=innocentemutabazi&show_icons=true&theme=dark)
-
+![innocentemutabazi's Stats](https://github-readme-stats.vercel.app/api?username=innocentemutabazi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=innocentemutabazi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
