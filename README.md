@@ -15,7 +15,7 @@
 
 
 # 📊 GitHub Stats:
-![innocentemutabazi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=innocentemutabazi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=20)
+![innocentemutabazi's Top Languages](https://innocentemutabazi-readme.vercel.app/api/top-langs/?username=innocentemutabazi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=20)
 ![innocentemutabazi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=innocentemutabazi&theme=vue-dark&hide_border=true)
 
 ![innocentemutabazi's Stats](https://github-readme-stats.vercel.app/api?username=innocentemutabazi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
