@@ -4,7 +4,7 @@
  ## 🥰 A bit about me:
 - 🔭 I’m an **Aspiring Full stack developer**
   
-- 📚 I'm currently focusing on deepening my skills in JavaScript and exploring its frameworks, libraries, and all other related things.
+- 📚 I'm currently focusing on deepening my skills in Java and exploring its frameworks, libraries, and all other related things.
 
 - 👯I am open to collaboration opportunities on **open source projects.**
 
