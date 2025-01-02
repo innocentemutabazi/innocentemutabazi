@@ -17,6 +17,8 @@
 # 📊 GitHub Stats:
 ![innocentemutabazi's Stats](https://github-readme-stats.vercel.app/api?username=innocentemutabazi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![Top Langs](https://innocentemutabazi-readme.vercel.app/api/top-langs/?username=innocentemutabazi&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=innocentemutabazi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
