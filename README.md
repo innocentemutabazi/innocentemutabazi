@@ -1,8 +1,7 @@
-![image](https://github.com/innocentemutabazi/innocentemutabazi/assets/159420918/8ae6616d-1980-44c2-92cf-5d3a12b2f0ce)
 <h1 align="center"> Hi there 👋🏽 , Nice to see you </h1>
 
  ## 🥰 A bit about me:
-- 🔭 I’m an **Aspiring Full stack developer**
+- 🔭 I’m a **Full stack developer**
   
 - 📚 I'm currently focusing on deepening my skills in JavaScript and exploring its frameworks, libraries, and all other related things.
 
